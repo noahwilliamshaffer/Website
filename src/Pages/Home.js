@@ -924,16 +924,6 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “We love you Noah!”
-                                      <br />
-                                      <span>Payton</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
                                       “You don't always have to rip it!”
                                       <br />
                                       <span>Alejandro</span>
