@@ -964,7 +964,7 @@ const Home = () => {
         </div>
 
         {/* <!-- ================================ BLOG ========================== --> */}
-
+{/*
         <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
@@ -976,7 +976,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        Projects that showcase my backend developement.
+                        Projects that showcase my backend developement
                       </p>
                     </div>
                   </div>
@@ -988,7 +988,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://github.com/noahwilliamshaffer/Server"
+                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1150,7 +1150,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-                      
+                      */}
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
