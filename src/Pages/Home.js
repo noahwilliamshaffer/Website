@@ -209,7 +209,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/noah-shaffer-profile.pdf"
                         target="_blank"
                       >
                         See Resume
