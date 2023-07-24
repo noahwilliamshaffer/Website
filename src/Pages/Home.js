@@ -925,7 +925,7 @@ const Home = () => {
         </div>
 
         {/* <!-- ================================ BLOG ========================== --> */}
-
+{/*
         <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
@@ -1112,7 +1112,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-
+*/}
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
