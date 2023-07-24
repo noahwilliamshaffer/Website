@@ -950,6 +950,15 @@ const Home = () => {
                                     </p>
                                   </blockquote>
                                 </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “The mustache makes you look like escobar.”
+                                      <br />
+                                      <span>Christian</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
                               </div>
                             </div>
                           </div>
