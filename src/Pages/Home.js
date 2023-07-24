@@ -911,6 +911,55 @@ const Home = () => {
                                     </p>
                                   </blockquote>
                                 </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “We love you Noah!”
+                                      <br />
+                                      <span>Payton</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “We love you Noah!”
+                                      <br />
+                                      <span>Payton</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “You don't always have to rip it!”
+                                      <br />
+                                      <span>Alejandro</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “We call you wildstrokes.”
+                                      <br />
+                                      <span>Mike</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “Pay Attention!”
+                                      <br />
+                                      <span>Erik</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -1112,7 +1161,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-*/}
+                      */}
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
