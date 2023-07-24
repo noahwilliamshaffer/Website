@@ -964,7 +964,7 @@ const Home = () => {
         </div>
 
         {/* <!-- ================================ BLOG ========================== --> */}
-{/*
+
         <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
@@ -976,8 +976,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        The Blog, Which has thoughts on life, work and
-                        everything in between.
+                        Projects that showcase my backend developement.
                       </p>
                     </div>
                   </div>
@@ -989,7 +988,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          href="https://github.com/noahwilliamshaffer/Server"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1043,7 +1042,7 @@ const Home = () => {
                         >
                           <img
                             src="assets/img/blog/blog2.png"
-                            alt="The importance of UI/UX"
+                            alt="Python Flask Nginix java script and mysql Web Server"
                             className="blog-img"
                           />
                         </a>
@@ -1151,7 +1150,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-                      */}
+                      
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
