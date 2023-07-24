@@ -1325,7 +1325,7 @@ const Home = () => {
                       <div class="map-wrap">
                         <iframe
                           title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
+                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1781.4536469532607!2d-82.2577031886383!3d26.747334328118725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c4b2f51cba139d%3A0x76553ae686e52223!2s240%20Harbor%20Dr%2C%20Boca%20Grande%2C%20FL%2033921!5e0!3m2!1sen!2sus!4v1690181683483!5m2!1sen!2sus"
                           width="100%"
                           height="450"
                           style={{ border: "0" }}
