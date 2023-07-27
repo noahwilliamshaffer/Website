@@ -266,7 +266,7 @@ const Home = () => {
                         <h3 className="Count">0127</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Professional Development Index</p>/* add little i to explain what it is, and last updated real tiny letters*/
+                        <p>Professional Development Index</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -702,7 +702,7 @@ In addition, I have consistently demonstrated a growth mindset, which I think is
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        /*An introduction:*/
+                       
                       </p>
                     </div>
                   </div>
