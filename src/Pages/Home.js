@@ -362,8 +362,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I like to code things from scratch, and enjoy bringing
-                        ideas to life in the browser.
+                        I just acheived my degree and I'm excited to apply what I've learned to industry and make a difference.
                       </p>
                     </div>
                   </div>
@@ -448,8 +447,8 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I don’t like to define myself by the work I’ve done. I
-                        define myself by the work I want to do.
+                      I just acheived my degree and I'm excited to apply what I've learned to industry and make a difference. 
+                      You can see my tangable skilset through the projects I've completed in my portfolio.
                       </p>
                     </div>
                   </div>
@@ -847,7 +846,9 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        Projects that showcase my backend developement
+                        Projects that provide a clear insight into some skills I posess. 
+                        There are more on my github, these are the ones
+                         I have the most confidence in and have clear documentation and explanations.
                       </p>
                     </div>
                   </div>
