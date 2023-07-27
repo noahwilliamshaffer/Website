@@ -126,7 +126,7 @@ const Home = () => {
                       <h3>Strong Problem-Solving Abilities:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>  I have developed a strong aptitude for problem-solving throughout my experience in academia. I'm confident in my ability to dissect complex issues, devise effective solutions, and apply my theoretical knowledge to real-world situations.</p>
+                      <p>  I have developed a strong aptitude for problem-solving throughout my experience in academia. I am confident in my ability to dissect complex issues, devise effective solutions, and apply my theoretical knowledge to real-world situations.</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -138,7 +138,7 @@ const Home = () => {
                       <h3>Adaptable and Committed to Continuous Learning:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p> I'm passionate about staying on top of industry trends and continuously learning new technologies and tools. This adaptability allows me to stay relevant in the ever-evolving tech landscape, as seen in my diverse range of completed projects.
+                      <p> I am passionate about staying on top of industry trends and continuously learning new technologies and tools. This adaptability allows me to stay relevant in the ever-evolving tech landscape, as seen in my diverse range of completed projects.
 
 </p>
                     </div>
@@ -152,7 +152,7 @@ const Home = () => {
                       <h3>Excellent Communication and Teamwork Skills:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>My experiences in working on numerous team projects have helped me develop strong communication and teamwork skills. I'm comfortable collaborating with diverse teams, managing conflicts effectively, and contributing positively to achieve shared goals.</p>
+                      <p>My experiences in working on numerous team projects have helped me develop strong communication and teamwork skills. I am comfortable collaborating with diverse teams, managing conflicts effectively, and contributing positively to achieve shared goals.</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -207,12 +207,12 @@ const Home = () => {
                         development and love what I do.
                         <br />
                         <br />
-                        Throughout my academic journey and team-based projects, I've discovered that I possess a natural affinity for leadership and team collaboration. 
+                        Throughout my academic journey and team-based projects, I have discovered that I possess a natural affinity for leadership and team collaboration. 
                         My ability to coordinate efforts, set objectives, and facilitate open, effective communication within the team has consistently steered us towards success. 
-                        Beyond the project tasks, I've made it a priority to foster a supportive and engaging team culture, which I believe is integral to high performance. 
-                        The result has been more than just successful projects; it has led to the cultivation of lasting friendships and broad networking connections. After each project, I've found myself not just 
+                        Beyond the project tasks, I have made it a priority to foster a supportive and engaging team culture, which I believe is integral to high performance. 
+                        The result has been more than just successful projects; it has led to the cultivation of lasting friendships and broad networking connections. After each project, I have not only found myself
                         with a set of accomplished objectives, but a group of close friends. This testament to my interpersonal skills, I believe, is just as important as my technical acumen. 
-                        I'm proud to bring this unique blend of leadership, communication, and team-building skills to every project and professional undertaking.
+                        I am proud to bring this unique blend of leadership, communication, and team-building skills to every project and professional undertaking.
                       </p>
                       <a
                         className="about-link-1"
@@ -315,7 +315,7 @@ const Home = () => {
                    numerous programming languages, tools, and frameworks, preparing me 
                    well for diverse roles in software engineering, while my practical experience 
                    in creating and managing a secure server for a web application underlines my 
-                   competency in cybersecurity. Beyond these technical abilities, I've consistently 
+                   competency in cybersecurity. Beyond these technical abilities, I have consistently 
                    demonstrated leadership and exceptional interpersonal skills, organizing and guiding 
                    teams to success while fostering lasting relationships. This unique blend of technical acumen, 
                    leadership, and team-building skills position me as a valuable asset to any team in the tech industry, 
@@ -379,7 +379,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I just acheived my degree and I'm excited to apply what I've learned to industry and make a difference.
+                        I just acheived my degree and I am excited to apply what I have learned to industry and make a difference.
                       </p>
                     </div>
                   </div>
@@ -464,8 +464,8 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                      I just acheived my degree and I'm excited to apply what I've learned to industry and make a difference. 
-                      You can see my tangable skilset through the projects I've completed in my portfolio.
+                      I just acheived my degree and I am excited to apply what I have learned to industry and make a difference. 
+                      You can see my tangable skilset through the projects I have completed in my portfolio.
                       </p>
                     </div>
                   </div>
@@ -1006,11 +1006,11 @@ const Home = () => {
                     <div className="row">
                       <div className="col-md-12">
                         <div className="main-title text-center wow fadeIn">
-                          <h3>Tools and Frameworks I'm familiar with</h3>
+                          <h3>Tools and Frameworks I am familiar with</h3>
                           <div className="underline1"></div>
                           <div className="underline2"></div>
                           <p>
-                            These are all tools and frameworks i've used extensively while studying at univerity or on personal projects.
+                            These are all tools and frameworks I have used extensively while studying at univerity or on personal projects.
                           </p>
                         </div>
                       </div>
