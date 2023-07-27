@@ -164,6 +164,10 @@ const Home = () => {
               </div>
             </div>
 
+
+
+       
+{/* <!-- ================================ Picture of me  =============================== --> */}
             <div className="about-back"></div>
             <div className="me-grid">
               <div className="container">
@@ -374,7 +378,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>School</h3>
-                        <h2>2010-2019</h2>
+                        <h2>2015-2019</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
@@ -397,7 +401,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Achieved my Graduation Degree from{" "}
+                          Achieved my B.A. in Computer Science and Economics (3.8 GPA) from{" "}
                           <a
                             href="https://www.fsu.edu/"
                             target="_blank"
@@ -423,7 +427,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Seeking to pursue Full-Stack Web Development at{" "}
+                          Seeking to pursue Full-Stack Development at{" "}
                           <a
                             href="https://www.apple.com/"
                             target="_blank"
@@ -828,153 +832,11 @@ const Home = () => {
                 </div>
               </div>
             </div>
-            <div className="testimonial">
-              <div className="testimonial-content">
-                <div className="testimonial-grid">
-                  <div className="container">
-                    <div className="row">
-                      <div className="col-md-12">
-                        <div className="main-title text-center wow fadeIn">
-                          <h3>Testimonials</h3>
-                          <div className="underline1"></div>
-                          <div className="underline2"></div>
-                          <p>
-                            People I've worked with have said some nice things
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="testimonial-details">
-                    <section id="carousel">
-                      <div className="container">
-                        <div className="row">
-                          <div className="col-md-8 col-md-offset-2">
-                            <div className="quote">
-                              <i className="fa fa-quote-left fa-4x"></i>
-                            </div>
-                            <div
-                              className="carousel slide"
-                              id="fade-quote-carousel"
-                              data-ride="carousel"
-                              data-interval="3000"
-                            >
-                              <ol className="carousel-indicators">
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="0"
-                                  className="active"
-                                ></li>
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="1"
-                                ></li>
-                                <li
-                                  data-target="#fade-quote-carousel"
-                                  data-slide-to="2"
-                                ></li>
-                              </ol>
-                              <div className="carousel-inner">
-                                <div className="active item">
-                                  <blockquote>
-                                    <p>
-                                      “He's sick in the head but also a has a monster python skillset.”
-                                      <br />
-                                      <span>Matt</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “He's well seasoned for for a white boy.”
-                                      <br />
-                                      <span>Jay</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “He's spilled more drinks at my house in two years than any one person should in a lifetime.”
-                                      <br />
-                                      <span>Cole</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “He is the biggest bird.”
-                                      <br />
-                                      <span>Anthony</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “We love you Noah!”
-                                      <br />
-                                      <span>Payton</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
 
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “You don't always have to rip it!”
-                                      <br />
-                                      <span>Alejandro</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
 
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “We call you wildstrokes.”
-                                      <br />
-                                      <span>Mike</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
+ {/* <!-- ================================ BLOG ========================== --> */}
 
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “Pay Attention!”
-                                      <br />
-                                      <span>Erik</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “The mustache makes you look like escobar.”
-                                      <br />
-                                      <span>Christian</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* <!-- ================================ BLOG ========================== --> */}
-
-        <div id="blog">
+ <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
               <div className="container">
@@ -1076,7 +938,7 @@ const Home = () => {
                             Entire Linux opertating system implemented in C programming language.
                           </p>
                           <a
-                            /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
+                            href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1089,6 +951,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
+
                           /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
                           /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
                           target="_blank"
@@ -1150,6 +1013,153 @@ const Home = () => {
             </div>
           </div>
         </div>
+
+ {/* <!-- ================================ Testimonials ========================== --> */}
+            <div className="testimonial">
+              <div className="testimonial-content">
+                <div className="testimonial-grid">
+                  <div className="container">
+                    <div className="row">
+                      <div className="col-md-12">
+                        <div className="main-title text-center wow fadeIn">
+                          <h3>Testimonials</h3>
+                          <div className="underline1"></div>
+                          <div className="underline2"></div>
+                          <p>
+                            People I've worked with have said some nice things
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="testimonial-details">
+                    <section id="carousel">
+                      <div className="container">
+                        <div className="row">
+                          <div className="col-md-8 col-md-offset-2">
+                            <div className="quote">
+                              <i className="fa fa-quote-left fa-4x"></i>
+                            </div>
+                            <div
+                              className="carousel slide"
+                              id="fade-quote-carousel"
+                              data-ride="carousel"
+                              data-interval="3000"
+                            >
+                              <ol className="carousel-indicators">
+                                <li
+                                  data-target="#fade-quote-carousel"
+                                  data-slide-to="0"
+                                  className="active"
+                                ></li>
+                                <li
+                                  data-target="#fade-quote-carousel"
+                                  data-slide-to="1"
+                                ></li>
+                                <li
+                                  data-target="#fade-quote-carousel"
+                                  data-slide-to="2"
+                                ></li>
+                              </ol>
+                              <div className="carousel-inner">
+                                <div className="active item">
+                                  <blockquote>
+                                    <p>
+                                      “He's sick in the head but also a has a monster python skillset.”
+                                      <br />
+                                      <span>Matt</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “He's well seasoned for a white boy.”
+                                      <br />
+                                      <span>Jay</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “He's spilled more drinks at my house in two years than any one person should in a lifetime.”
+                                      <br />
+                                      <span>Cole</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “He is the biggest bird.”
+                                      <br />
+                                      <span>Anthony</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “We love you Noah!”
+                                      <br />
+                                      <span>Payton</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “You don't always have to rip it!”
+                                      <br />
+                                      <span>Alejandro</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “We call you wildstrokes.”
+                                      <br />
+                                      <span>Mike</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “Pay Attention!”
+                                      <br />
+                                      <span>Erik</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                      “The mustache makes you look like escobar.”
+                                      <br />
+                                      <span>Christian</span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
                       
         {/* <!-- ================================ CONTACT ========================== --> */}
 

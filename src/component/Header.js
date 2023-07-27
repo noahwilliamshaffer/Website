@@ -53,7 +53,7 @@ function Header() {
                         <a href="/#service">Service</a>
                       </li>
                       <li>
-                        <a href="/#blog">Blog</a>
+                        <a href="/#blog">Portfolio</a>
                       </li>
                       <li>
                         <a href="/#contact">Contact</a>
