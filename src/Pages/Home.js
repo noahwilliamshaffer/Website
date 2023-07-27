@@ -247,10 +247,10 @@ const Home = () => {
                           className="fa fa-crop stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0040</h3>
+                        <h3 className="Count">0007</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>UI/UX Design Done</p>
+                        <p>Websites Created</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -259,10 +259,10 @@ const Home = () => {
                           className="fa fa-bolt stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0015</h3>
+                        <h3 className="Count">0027</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Website Created</p>
+                        <p>Projects Completed</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -271,7 +271,7 @@ const Home = () => {
                           className="fa fa-coffee stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0085</h3>
+                        <h3 className="Count">8503</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Scoops of Pre Workout Taken</p>
@@ -858,41 +858,30 @@ const Home = () => {
                   <div className="row">
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
-                        <a
-                          /*href="https://github.com/noahwilliamshaffer?tab=repositories"*/
-                          /*href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"*/
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
+                        
                           <img
                             src="assets/img/blog/blog1.png"
                             alt="React hooks were introduced in version 16.8"
                             className="blog-img"
                           />
-                        </a>
+                        
                         <div className="blog-head">
                           
-                          <a
-                           /*href="https://github.com/noahwilliamshaffer/Server"*/
-                            /*href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"*/
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
+                         
       
                             <h3>
                               <strong>
                                 Python server 
                               </strong>
                             </h3>
-                          </a>
+                          
                         </div>
                         <div className="blog-bottom">
                           <p>
                           A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript.
                           </p>
                           <a
-                            /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
+                            href="https://github.com/noahwilliamshaffer/Server"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -906,32 +895,21 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         
-                        <a
-                          /* href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"*/
-                          /*href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"*/
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
+                        
                           <img
                             src="assets/img/blog/blog2.png"
                             alt="Python Flask Nginix java script and mysql Web Server"
                             className="blog-img"
                           />
-                        </a>
+                        
                         <div className="blog-head">
-                          <a
-                          href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
-                            /*href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"*/
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
+                          
                             <h3>
                               <strong>
                                 Entire linux operating system 
                               </strong>
                             </h3>
-                          </a>
+                          
                         </div>
                         <div className="blog-bottom">
                           <p>
@@ -950,19 +928,13 @@ const Home = () => {
                     </div>
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
-                        <a
-
-                          /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
-                          /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
+                        
                           <img
                             src="assets/img/blog/blog3.png"
                             alt="blog-img"
                             className="blog-img"
                           />
-                        </a>
+                        
                         <div className="blog-head">
                           <a
                               href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
