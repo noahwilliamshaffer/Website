@@ -123,10 +123,10 @@ const Home = () => {
                         className="fa fa-pencil-square-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Working Hard</h3>
+                      <h3>Strong Problem-Solving Abilities:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Always believe in hard-work in my profession</p>
+                      <p>  I have developed a strong aptitude for problem-solving throughout my academic and project experiences. I'm confident in my ability to dissect complex issues, devise effective solutions, and apply my theoretical knowledge to real-world situations.</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -135,10 +135,12 @@ const Home = () => {
                         className="fa fa-file-image-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>UI/UX Design</h3>
+                      <h3>Adaptable and Committed to Continuous Learning:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p> I'm passionate about staying on top of industry trends and continuously learning new technologies and tools. This adaptability allows me to stay relevant in the ever-evolving tech landscape, as seen in my diverse range of completed projects.
+
+</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -147,19 +149,19 @@ const Home = () => {
                         className="fa fa-globe love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Web Design</h3>
+                      <h3>Excellent Communication and Teamwork Skills:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Passionate about Web Design from start</p>
+                      <p>My experiences in working on numerous team projects have helped me develop strong communication and teamwork skills. I'm comfortable collaborating with diverse teams, managing conflicts effectively, and contributing positively to achieve shared goals.</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Web Development</h3>
+                      <h3>Proficient Technical Skills:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Created all types of modern web development.</p>
+                      <p> I am proficient in multiple programming languages, including Python, Java, C++, and Swift. My technical skills also extend to using databases like MongoDB, creating mobile apps, developing operating systems, and understanding the intricacies of computer architecture.</p>
                     </div>
                   </div>
                 </div>
@@ -479,7 +481,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I Aquired my private pilots liscence through Admiral Farragut Acedemy and flew at St. Pete Air.
+                          I aquired my private pilots liscence through Admiral Farragut Acedemy and flew at St. Pete Air.
                         </p>
                       </div>
                     </div>
@@ -682,11 +684,11 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>Service List</h3>
+                      <h3>Skillsets and Abilities</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I always want to make things that make a difference.
+                        I love being able to lead through example.
                       </p>
                     </div>
                   </div>
@@ -705,12 +707,11 @@ const Home = () => {
                           className="fa fa-edit service-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Design + Development</h3>
+                        <h3>Deep Understanding of Computer Architecture: </h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Clean, modern designs - optimized for performance,
-                          search engines, and converting users to customers.
+                        My deep understanding of computer architecture enables me to write more efficient code. I can identify bottlenecks and optimize performance at a fundamental level.
                         </p>
                       </div>
                     </div>
@@ -728,12 +729,11 @@ const Home = () => {
                           className="fa fa-cart-plus exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>eCommerce</h3>
+                        <h3>Application Development:</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Integration of eCommerce platforms, payment gateways,
-                          custom product templates, and more.
+                      From creating mobile apps to building operating systems, I have a wide range of application development experience. This breadth of knowledge allows me to understand different aspects of software development and contributes to my holistic approach to problem-solving.
                         </p>
                       </div>
                     </div>
@@ -751,12 +751,11 @@ const Home = () => {
                           className="fa fa-tachometer service-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Analytics</h3>
+                        <h3>Strong Foundation in Cybersecurity:</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Get insights into who is browsing your site so that
-                          you can make smarter business decisions.
+                         With a strong foundation in cybersecurity, I understand the importance of protecting sensitive data and implementing secure systems. I am able to anticipate potential security threats and take steps to mitigate them, which is essential in today's digital landscape.
                         </p>
                       </div>
                     </div>
@@ -774,12 +773,11 @@ const Home = () => {
                           className="fa fa-desktop exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Mobile-friendly</h3>
+                        <h3>Collaborative Team Player:</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          A responsive design makes your website accessible to
-                          all users, regardless of their device.
+                         I have successfully worked with cross-functional teams on various projects. My ability to understand and reconcile conflicting requirements and opinions helps me facilitate teamwork and achieve collective goals.
                         </p>
                       </div>
                     </div>
@@ -797,12 +795,11 @@ const Home = () => {
                           className="fa fa-search exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Website Rank</h3>
+                        <h3>Proficient in Multiple Programming Languages:</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Looking to improve your page performance, SEO, or user
-                          experience? Request a free site audit.
+                         I am proficient in multiple programming languages including C++, C, Python, Java, and Swift. This diverse skill set allows me to select the best language for a given task, and adapt quickly to different coding environments.
                         </p>
                       </div>
                     </div>
@@ -820,12 +817,11 @@ const Home = () => {
                           className="fa fa-file exp-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Content Management</h3>
+                        <h3>Experienced with Diverse Platforms and Tools:</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Custom theme and plugin development. Easily update
-                          site content with knowledge of powerful code.
+                         I have hands-on experience with various tools and platforms like MongoDB, AWS, and Nginx. My ability to utilize these platforms effectively can streamline processes and improve the efficiency of any project.
                         </p>
                       </div>
                     </div>
@@ -844,7 +840,7 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>My Portofio</h3>
+                      <h3>My Portfolio</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
