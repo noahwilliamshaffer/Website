@@ -254,7 +254,7 @@ const Home = () => {
                         <h3 className="Count">0477</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Problem-Solving Record:</p>
+                        <p>Problem-Solving Record</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -266,7 +266,7 @@ const Home = () => {
                         <h3 className="Count">0127</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Professional Development Index:</p>
+                        <p>Professional Development Index</p>/* add little i to explain what it is, and last updated real tiny letters*/
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -379,7 +379,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I just acheived my degree and I am excited to apply what I have learned to industry and make a difference.
+                        I just achieved my degree and I am excited to apply what I have learned to industry and make a difference.
                       </p>
                     </div>
                   </div>
@@ -464,8 +464,9 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                      I just acheived my degree and I am excited to apply what I have learned to industry and make a difference. 
-                      You can see my tangable skilset through the projects I have completed in my portfolio.
+                      While I acknowledge that I do not have traditional work experience in the field of computer science, I firmly believe that the depth and breadth of my academic knowledge have equipped me well for the professional world. Throughout my time at Florida State University, I have not only mastered key programming languages and concepts but also worked on practical projects that mimic real-world scenarios.
+In addition, I have consistently demonstrated a growth mindset, which I think is particularly important in a fast-evolving field like ours. I understand the need to keep up with the latest developments, and I've proven my ability to learn and adapt quickly throughout my academic career.
+ I believe I can bring a fresh, unique perspective to your team. I'm eager to translate the skills and knowledge I've accumulated in my academic life into tangible contributions to your company, and I am confident in my ability to rise to the challenge and exceed expectations. I'm excited about the opportunity to leverage my skills and learnings in a real-world context and continue my professional growth.
                       </p>
                     </div>
                   </div>
@@ -494,7 +495,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I aquired my private pilots liscence through Admiral Farragut Acedemy and flew at St. Pete Air.
+                          I aquired my private pilots license through Admiral Farragut Academy and flew at St. Pete Air.
                         </p>
                       </div>
                     </div>
@@ -514,7 +515,7 @@ const Home = () => {
                             rel="noopener noreferrer"
                             style={{ color: "#4d4d4d" }}
                           >
-                            Admiral Farragut Acedemy
+                            Admiral Farragut Academy
                           </a>
                         </h3>
                         <h4>Naval ROTC</h4>
@@ -522,7 +523,7 @@ const Home = () => {
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          I attended a boarding naval military Acedemy where I carried out many tasks akin to what would be expected by the Navy.
+                          I attended a boarding naval military academy where I carried out many tasks akin to what would be expected by the Navy.
                           &amp; Navy Ship Certification
                         </p>
                       </div>
@@ -701,7 +702,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        I love being able to lead through example.
+                        /*An introduction:*/
                       </p>
                     </div>
                   </div>
