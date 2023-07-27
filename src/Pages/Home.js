@@ -97,19 +97,21 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>What I do</h3>
+                      <h3>Passionate Computer Science Graduate: Bridging Theoretical Knowledge and Practical Applications</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                      With a steadfast commitment to innovation and a genuine passion for technology,
+                       I am a recent graduate in computer science excited to make my mark in the industry. 
+                       My proficiency spans multiple programming languages such as Python, Java, C++, and JavaScript, 
+                       laying a robust foundation for diverse software development tasks. I am particularly 
+                       interested in web development, AI, and machine learning projects, as they offer dynamic and 
+                       challenging opportunities to apply my theoretical knowledge into practice. Over the course of
+                        my academic journey, I have honed my ability to analyze complex problems and develop effective, 
+                        efficient solutions. My passion for these fields extends beyond the classroom, manifesting in numerous 
+                        personal and collaborative projects that showcase my technical abilities and dedication to continuous learning.
+                         Embracing the latest trends and technologies, I am always ready to navigate the evolving landscape of computer science 
+                         to create impactful solutions.
                       </p>
                     </div>
                   </div>
