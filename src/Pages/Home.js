@@ -884,14 +884,14 @@ In addition, I have consistently demonstrated a growth mindset, which I think is
       
                             <h3>
                               <strong>
-                                Python server 
+                                Server with database
                               </strong>
                             </h3>
                           
                         </div>
                         <div className="blog-bottom">
                           <p>
-                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript.
+                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript. Stores users liked and disliked articles in sql tables. Pulls the articles from hacker news. The users are uniqluey identified through their Auth0 login IDS.
                           </p>
                           <a
                             href="https://github.com/noahwilliamshaffer/Server"
@@ -963,7 +963,7 @@ In addition, I have consistently demonstrated a growth mindset, which I think is
                         </div>
                         <div className="blog-bottom">
                           <p>
-                            Fitness app implemented in swift.
+                            Fitness app implemented in swift, tracks users health details, and provides them with tailored excersizes and nutrition plans.
                           </p>
                           <a
                             href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
