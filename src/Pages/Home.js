@@ -329,19 +329,32 @@ const Home = () => {
                       <div className="col">
                         <ul id="skill-main">
                           <li>
-                            <h3>HTML / CSS - 97%</h3>
+                            <h3> C++ / C#: </h3>
                           </li>
                           <li>
-                            <h3>UI / UX - 92%</h3>
+                            <h3> Python </h3>
                           </li>
                           <li>
-                            <h3>React JS - 30%</h3>
+                            <h3>SQL </h3>
                           </li>
                           <li>
-                            <h3>PHP (Laravel) - 93%</h3>
+                            <h3> Java </h3>
                           </li>
                           <li>
-                            <h3>MySQL - 95%</h3>
+                            <h3>HTML / CSS (Laravel) </h3>
+                          </li>
+                          
+                          <li>
+                            <h3>Perl </h3>
+                          </li>
+                          <li>
+                            <h3>Rust </h3>
+                          </li>
+                          <li>
+                            <h3>Unix </h3>
+                          </li>
+                          <li>
+                            <h3>React JS </h3>
                           </li>
                         </ul>
                       </div>
@@ -993,11 +1006,11 @@ const Home = () => {
                     <div className="row">
                       <div className="col-md-12">
                         <div className="main-title text-center wow fadeIn">
-                          <h3>Testimonials</h3>
+                          <h3>Tools and Frameworks I'm familiar with</h3>
                           <div className="underline1"></div>
                           <div className="underline2"></div>
                           <p>
-                            People I've worked with have said some nice things
+                            These are all tools and frameworks i've used extensively while studying at univerity or on personal projects.
                           </p>
                         </div>
                       </div>
@@ -1036,55 +1049,45 @@ const Home = () => {
                                 <div className="active item">
                                   <blockquote>
                                     <p>
-                                      “He's sick in the head but also a has a monster python skillset.”
+                                    MongoDB
                                       <br />
-                                      <span>Matt</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “He's well seasoned for a white boy.”
+                                    Pandas
                                       <br />
-                                      <span>Jay</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “He's spilled more drinks at my house in two years than any one person should in a lifetime.”
+                                    Docker
                                       <br />
-                                      <span>Cole</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “He is the biggest bird.”
+                                    SwiftUI
                                       <br />
-                                      <span>Anthony</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “We love you Noah!”
+                                    Flask
                                       <br />
-                                      <span>Payton</span>
-                                    </p>
-                                  </blockquote>
-                                </div>
-
-                                <div className="item">
-                                  <blockquote>
-                                    <p>
-                                      “You don't always have to rip it!”
-                                      <br />
-                                      <span>Alejandro</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
@@ -1092,9 +1095,9 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “We call you wildstrokes.”
+                                    Django
                                       <br />
-                                      <span>Mike</span>
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
@@ -1102,18 +1105,46 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Pay Attention!”
+                                    React.js
                                       <br />
-                                      <span>Erik</span>
+                                      <span></span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                    NumPy
+                                      <br />
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “The mustache makes you look like escobar.”
+                                    TensorFlow
                                       <br />
-                                      <span>Christian</span>
+                                      <span></span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                    SQLAlchemy
+                                      <br />
+                                      <span></span>
+                                    </p>
+                                  </blockquote>
+                                </div>
+                                <div className="item">
+                                  <blockquote>
+                                    <p>
+                                    Selenium 
+                                      <br />
+                                      <span></span>
                                     </p>
                                   </blockquote>
                                 </div>
