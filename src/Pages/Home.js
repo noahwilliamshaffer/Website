@@ -126,7 +126,7 @@ const Home = () => {
                       <h3>Strong Problem-Solving Abilities:</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>  I have developed a strong aptitude for problem-solving throughout my academic and project experiences. I'm confident in my ability to dissect complex issues, devise effective solutions, and apply my theoretical knowledge to real-world situations.</p>
+                      <p>  I have developed a strong aptitude for problem-solving throughout my experience in academia. I'm confident in my ability to dissect complex issues, devise effective solutions, and apply my theoretical knowledge to real-world situations.</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
