@@ -251,7 +251,7 @@ const Home = () => {
                           className="fa fa-crop stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0007</h3>
+                        <h3 className="Count">0477</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Problem-Solving Record:</p>
@@ -263,7 +263,7 @@ const Home = () => {
                           className="fa fa-bolt stat-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3 className="Count">0027</h3>
+                        <h3 className="Count">0127</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>Professional Development Index:</p>
