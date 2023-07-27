@@ -188,7 +188,7 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Noah Shaffer</h3>
+                        <h3>Hello! My name is Noah Shaffer</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
@@ -242,7 +242,7 @@ const Home = () => {
                         <h3 className="Count">0021</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Web Design Completed</p>
+                        <p>Project Completion Tracker</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -254,7 +254,7 @@ const Home = () => {
                         <h3 className="Count">0007</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Websites Created</p>
+                        <p>Problem-Solving Record:</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
@@ -266,7 +266,7 @@ const Home = () => {
                         <h3 className="Count">0027</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>Projects Completed</p>
+                        <p>Professional Development Index:</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6">
