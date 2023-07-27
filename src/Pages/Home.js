@@ -203,13 +203,12 @@ const Home = () => {
                         development and love what I do.
                         <br />
                         <br />
-                        Since beginning my journey as a web developer in my
-                        college days, I've done remote work for agencies,
-                        consulted for startups, and collaborated with talented
-                        people to create digital products for both business and
-                        consumer use. I'm quietly confident, naturally curious,
-                        and perpetually working on improving my chops one design
-                        problem at a time.
+                        Throughout my academic journey and team-based projects, I've discovered that I possess a natural affinity for leadership and team collaboration. 
+                        My ability to coordinate efforts, set objectives, and facilitate open, effective communication within the team has consistently steered us towards success. 
+                        Beyond the project tasks, I've made it a priority to foster a supportive and engaging team culture, which I believe is integral to high performance. 
+                        The result has been more than just successful projects; it has led to the cultivation of lasting friendships. After each project, I've found myself not just 
+                        with a set of accomplished objectives, but a group of close friends. This testament to my interpersonal skills, I believe, is just as important as my technical acumen. 
+                        I'm proud to bring this unique blend of leadership, communication, and team-building skills to every project and professional undertaking.
                       </p>
                       <a
                         className="about-link-1"
@@ -297,8 +296,7 @@ const Home = () => {
                     <div className="underline1"></div>
                     <div className="underline2"></div>
                     <p>
-                      I value simple content structure, clean design patterns,
-                      and thoughtful interactions.
+                      I value teamwork, leadership, and communication.
                     </p>
                   </div>
                 </div>
@@ -307,15 +305,17 @@ const Home = () => {
                 <div className="col-md-6">
                   <div className="skill-details text-left">
                     <p>
-                      UI/UX involves planning and iterating a site's structure
-                      and layout. Once the proper information architecture is in
-                      place, I design the visual layer to create a beautiful
-                      user experience. Front End Development is building out the
-                      visual components of a website. Using HTML, CSS, and
-                      Javascript, I build fast, interactive websites. This also
-                      may include a CMS, apis, or other integrations. The work
-                      that I am most interested in is 0-1 work (helping you get
-                      your idea into the world).
+                      As a Computer Science graduate from Florida State University, 
+                   I possess a broad spectrum of technical skills and a keen ability 
+                   to lead and collaborate effectively. My technical expertise spans 
+                   numerous programming languages, tools, and frameworks, preparing me 
+                   well for diverse roles in software engineering, while my practical experience 
+                   in creating and managing a secure server for a web application underlines my 
+                   competency in cybersecurity. Beyond these technical abilities, I've consistently 
+                   demonstrated leadership and exceptional interpersonal skills, organizing and guiding 
+                   teams to success while fostering lasting relationships. This unique blend of technical acumen, 
+                   leadership, and team-building skills position me as a valuable asset to any team in the tech industry, 
+                   ready to contribute significantly and drive impactful advancements in technology.
                     </p>
                   </div>
                 </div>
