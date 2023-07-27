@@ -973,7 +973,7 @@ const Home = () => {
         </div>
 
         {/* <!-- ================================ BLOG ========================== --> */}
-{/*
+
         <div id="blog">
           <div className="blog-content">
             <div className="blog-grid">
@@ -981,7 +981,7 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>My Blog</h3>
+                      <h3>My Portofio</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
@@ -997,7 +997,8 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          /*href="https://github.com/noahwilliamshaffer?tab=repositories"*/
+                          /*href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"*/
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1008,44 +1009,44 @@ const Home = () => {
                           />
                         </a>
                         <div className="blog-head">
+                          
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                           /*href="https://github.com/noahwilliamshaffer/Server"*/
+                            /*href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
                           >
+      
                             <h3>
                               <strong>
-                                What is the importance of hooks in React JS?
+                                Python server 
                               </strong>
                             </h3>
                           </a>
                         </div>
                         <div className="blog-bottom">
                           <p>
-                            In this article, you will learn what are hooks in
-                            React JS? and when to use react hooks? React JS is
-                            developed by Facebook in the year 2013. There are
-                            many students and the new developers who have
-                            confusion between react and hooks in react. Well, it
-                            is not different, react is a programming language
-                            and hooks is ...
+                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript.
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
                           >
-                            Read More
+                            View Project
                           </a>
                         </div>
+                        
                       </div>
                     </div>
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
+                        
                         <a
-                          href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          /* href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"*/
+                          /*href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"*/
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1057,35 +1058,30 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                            /*href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
                           >
                             <h3>
                               <strong>
-                                The importance of UI/UX | Software Engineering
+                                Entire linux operating system 
                               </strong>
                             </h3>
                           </a>
                         </div>
                         <div className="blog-bottom">
                           <p>
-                            UI or User Interface is the interface that is the
-                            access point where users interact with computers. It
-                            is also a way through which users can interact with
-                            a website or an application. UI design typically
-                            refers to graphical user interfaces but also
-                            includes others, such as voice-controlled ones, a
-                            keyboard and the appearance ...
+                            Entire Linux opertating system implemented in C programming language.
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
                           >
-                            Read More
+                            View Project
                           </a>
                         </div>
                       </div>
@@ -1093,7 +1089,8 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                          /*href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"*/
+                          /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1105,41 +1102,35 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                              href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                            /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
                           >
                             <h3>
-                              <strong>Form Example in Laravel 8</strong>
+                              <strong>Fitness App </strong>
                             </h3>
                           </a>
                         </div>
                         <div className="blog-bottom">
                           <p>
-                            Laravel 8 form example tutorial. In this post, i
-                            will teach from starting on how to send form data on
-                            controller and how to insert form data in database
-                            using laravel 8. If you are trying to create form
-                            and want to insert form data into database using
-                            laravel 8 latest version. So this post will help you
-                            to do this. Because in this post example, i will
-                            create contact-list ...
+                            Fitness app implemented in swift.
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
                           >
-                            Read More
+                            View Project
                           </a>
                         </div>
                       </div>
                     </div>
                     <div className="row" style={{ textAlign: "center" }}>
                       <a
-                        href="https://dev.to/sanajitjana"
+                        href="https://github.com/noahwilliamshaffer?tab=repositories"
                         target="newtab"
                         className="btn btn-warning"
                         style={{
@@ -1150,7 +1141,7 @@ const Home = () => {
                           color: "black",
                         }}
                       >
-                        More Blog
+                        Github Main
                       </a>
                     </div>
                   </div>
@@ -1159,7 +1150,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-                      */}
+                      
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
