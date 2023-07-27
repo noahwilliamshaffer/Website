@@ -210,7 +210,7 @@ const Home = () => {
                         Throughout my academic journey and team-based projects, I've discovered that I possess a natural affinity for leadership and team collaboration. 
                         My ability to coordinate efforts, set objectives, and facilitate open, effective communication within the team has consistently steered us towards success. 
                         Beyond the project tasks, I've made it a priority to foster a supportive and engaging team culture, which I believe is integral to high performance. 
-                        The result has been more than just successful projects; it has led to the cultivation of lasting friendships. After each project, I've found myself not just 
+                        The result has been more than just successful projects; it has led to the cultivation of lasting friendships and broad networking connections. After each project, I've found myself not just 
                         with a set of accomplished objectives, but a group of close friends. This testament to my interpersonal skills, I believe, is just as important as my technical acumen. 
                         I'm proud to bring this unique blend of leadership, communication, and team-building skills to every project and professional undertaking.
                       </p>
