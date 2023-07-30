@@ -88,6 +88,159 @@ const Home = () => {
           <div className="parallax" data-velocity="-.5" data-fit="525"></div>
         </div>
 
+ {/* <!-- ================================ BLOG ========================== --> */}
+
+ <div id="blog">
+          <div className="blog-content">
+            <div className="blog-grid">
+              <div className="container">
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="main-title text-center wow fadeIn">
+                      <h3>My Portfolio</h3>
+                      <div className="underline1"></div>
+                      <div className="underline2"></div>
+                      <p>
+                        Projects that provide a clear insight into some skills I posess. 
+                        There are more on my github, these are the ones
+                         I have the most confidence in and have clear documentation and explanations.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="blog-details wow fadeIn text-left">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                          <img
+                            src="assets/img/blog/blog1.png"
+                            alt="React hooks were introduced in version 16.8"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          
+                         
+      
+                            <h3>
+                              <strong>
+                                Server with database
+                              </strong>
+                            </h3>
+                          
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript. Stores users liked and disliked articles in sql tables. Pulls the articles from hacker news. The users are uniqluey identified through their Auth0 login IDS.
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/Server"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                        
+                      </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                        
+                          <img
+                            src="assets/img/blog/blog2.png"
+                            alt="Python Flask Nginix java script and mysql Web Server"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          
+                            <h3>
+                              <strong>
+                                Entire linux operating system 
+                              </strong>
+                            </h3>
+                          
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                            Entire Linux opertating system implemented in C programming language.
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                          <img
+                            src="assets/img/blog/blog3.png"
+                            alt="blog-img"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          <a
+                              href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                            /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ textDecoration: "none" }}
+                          >
+                            <h3>
+                              <strong>Fitness App </strong>
+                            </h3>
+                          </a>
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                            Fitness app implemented in swift, tracks users health details, and provides them with tailored excersizes and nutrition plans.
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="row" style={{ textAlign: "center" }}>
+                      <a
+                        href="https://github.com/noahwilliamshaffer?tab=repositories"
+                        target="newtab"
+                        className="btn btn-warning"
+                        style={{
+                          width: "50%",
+                          fontSize: "16px",
+                          backgroundColor: "#efd236",
+                          borderColor: "#efd236",
+                          color: "black",
+                        }}
+                      >
+                        Github Main
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* <!-- ================================ ABOUT =============================== --> */}
 
         <div id="about">
@@ -329,7 +482,7 @@ const Home = () => {
                       <div className="col">
                         <ul id="skill-main">
                           <li>
-                            <h3> C++ / C#: </h3>
+                            <h3> C++ / C#:     MongoDB Selenium Pandas Docker SwiftUI Flask Django React.js NumPy TensorFlow SQLAlchemy</h3>
                           </li>
                           <li>
                             <h3> Python </h3>
@@ -844,161 +997,6 @@ In addition, I have consistently demonstrated a growth mindset, which I think is
               </div>
             </div>
 
-
- {/* <!-- ================================ BLOG ========================== --> */}
-
- <div id="blog">
-          <div className="blog-content">
-            <div className="blog-grid">
-              <div className="container">
-                <div className="row">
-                  <div className="col-md-12">
-                    <div className="main-title text-center wow fadeIn">
-                      <h3>My Portfolio</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        Projects that provide a clear insight into some skills I posess. 
-                        There are more on my github, these are the ones
-                         I have the most confidence in and have clear documentation and explanations.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="blog-details wow fadeIn text-left">
-                <div className="container">
-                  <div className="row">
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        
-                          <img
-                            src="assets/img/blog/blog1.png"
-                            alt="React hooks were introduced in version 16.8"
-                            className="blog-img"
-                          />
-                        
-                        <div className="blog-head">
-                          
-                         
-      
-                            <h3>
-                              <strong>
-                                Server with database
-                              </strong>
-                            </h3>
-                          
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript. Stores users liked and disliked articles in sql tables. Pulls the articles from hacker news. The users are uniqluey identified through their Auth0 login IDS.
-                          </p>
-                          <a
-                            href="https://github.com/noahwilliamshaffer/Server"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            View Project
-                          </a>
-                        </div>
-                        
-                      </div>
-                    </div>
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        
-                        
-                          <img
-                            src="assets/img/blog/blog2.png"
-                            alt="Python Flask Nginix java script and mysql Web Server"
-                            className="blog-img"
-                          />
-                        
-                        <div className="blog-head">
-                          
-                            <h3>
-                              <strong>
-                                Entire linux operating system 
-                              </strong>
-                            </h3>
-                          
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                            Entire Linux opertating system implemented in C programming language.
-                          </p>
-                          <a
-                            href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            View Project
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="col-md-4 col-sm-6">
-                      <div className="blog-main">
-                        
-                          <img
-                            src="assets/img/blog/blog3.png"
-                            alt="blog-img"
-                            className="blog-img"
-                          />
-                        
-                        <div className="blog-head">
-                          <a
-                              href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
-                            /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ textDecoration: "none" }}
-                          >
-                            <h3>
-                              <strong>Fitness App </strong>
-                            </h3>
-                          </a>
-                        </div>
-                        <div className="blog-bottom">
-                          <p>
-                            Fitness app implemented in swift, tracks users health details, and provides them with tailored excersizes and nutrition plans.
-                          </p>
-                          <a
-                            href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="about-link-2"
-                          >
-                            View Project
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="row" style={{ textAlign: "center" }}>
-                      <a
-                        href="https://github.com/noahwilliamshaffer?tab=repositories"
-                        target="newtab"
-                        className="btn btn-warning"
-                        style={{
-                          width: "50%",
-                          fontSize: "16px",
-                          backgroundColor: "#efd236",
-                          borderColor: "#efd236",
-                          color: "black",
-                        }}
-                      >
-                        Github Main
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
  {/* <!-- ================================ Testimonials ========================== --> */}
             <div className="testimonial">
               <div className="testimonial-content">
@@ -1050,7 +1048,7 @@ In addition, I have consistently demonstrated a growth mindset, which I think is
                                 <div className="active item">
                                   <blockquote>
                                     <p>
-                                    MongoDB
+                                    MongoDB 
                                       <br />
                                       <span></span>
                                     </p>

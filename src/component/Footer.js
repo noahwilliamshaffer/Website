@@ -35,7 +35,7 @@ function Footer() {
               </a>
             </li>
             <li className="wow fadeIn" data-wow-delay="1s">
-              <a href="https://sanajitjana.medium.com/" target="newtab">
+              <a href="https://github.com/noahwilliamshaffer" target="newtab">
                 <i className="fa fa-medium" aria-hidden="true"></i>
               </a>
             </li>
