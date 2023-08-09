@@ -162,17 +162,17 @@ const Home = () => {
                           
                             <h3>
                               <strong>
-                                Entire linux operating system 
+                                Elavator in Linux
                               </strong>
                             </h3>
                           
                         </div>
                         <div className="blog-bottom">
                           <p>
-                            Entire Linux opertating system implemented in C programming language.
+                          Elavator in Linux with background processes, multi threading, in C.
                           </p>
                           <a
-                            href="https://github.com/noahwilliamshaffer/Entire-Operating-System-/tree/main/Project3-main"
+                            href="https://github.com/noahwilliamshaffer/ELAVATOR/tree/main/Project2-main"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
