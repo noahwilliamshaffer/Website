@@ -127,17 +127,17 @@ const Home = () => {
       
                             <h3>
                               <strong>
-                                Server with database
+                                Measuring Greatness
                               </strong>
                             </h3>
                           
                         </div>
                         <div className="blog-bottom">
                           <p>
-                          A python server implemented with nginix, flask, gunicorn, mysql, authO, html, and javascript. Stores users liked and disliked articles in sql tables. Pulls the articles from hacker news. The users are uniqluey identified through their Auth0 login IDS.
+                          In an attempt to remove biases from the discussion, I implemented various machine learning algorithms that are able to accurately predict the MVP. Furthermore, I sought to analyze which of these models appear to be most well suited to this problem type.
                           </p>
                           <a
-                            href="https://github.com/noahwilliamshaffer/Server"
+                            href="https://github.com/noahwilliamshaffer/MeasuringGreatness"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -162,14 +162,15 @@ const Home = () => {
                           
                             <h3>
                               <strong>
-                                Elavator in Linux
+                                Work in progress
                               </strong>
                             </h3>
                           
                         </div>
                         <div className="blog-bottom">
                           <p>
-                          Elavator in Linux with background processes, multi threading, in C.
+                          A flask application with a chat bot, work in progress...
+
                           </p>
                           <a
                             href="https://github.com/noahwilliamshaffer/ELAVATOR/tree/main/Project2-main"
