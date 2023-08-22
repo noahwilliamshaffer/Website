@@ -101,7 +101,7 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        Projects that provide a clear insight into some skills I posess. 
+                        Projects that provide a clear insight into some skills I possess. 
                         There are more on my github, these are the ones
                          I have the most confidence in and have clear documentation and explanations.
                       </p>
