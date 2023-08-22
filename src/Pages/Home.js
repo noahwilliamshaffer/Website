@@ -169,11 +169,11 @@ const Home = () => {
                         </div>
                         <div className="blog-bottom">
                           <p>
-                          A flask application with a chat bot, work in progress...
+                         Some basic shell scripting in linux.
 
                           </p>
                           <a
-                            href="https://github.com/noahwilliamshaffer/ChatBot"
+                            href="https://github.com/noahwilliamshaffer/ShellScripts"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -194,7 +194,7 @@ const Home = () => {
                         
                         <div className="blog-head">
                           <a
-                              href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                              href="https://github.com/noahwilliamshaffer/ShellScripts"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
