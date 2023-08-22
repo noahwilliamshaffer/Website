@@ -173,7 +173,7 @@ const Home = () => {
 
                           </p>
                           <a
-                            href="https://github.com/noahwilliamshaffer/ELAVATOR/tree/main/Project2-main"
+                            href="https://github.com/noahwilliamshaffer/ChatBot"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -195,7 +195,6 @@ const Home = () => {
                         <div className="blog-head">
                           <a
                               href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
-                            /*href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"*/
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
