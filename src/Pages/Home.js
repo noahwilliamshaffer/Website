@@ -22,62 +22,6 @@ const Home = () => {
                           <b className="is-visible">Developer</b>
                         </span>
                       </h1>
-                      <div className="about-social-icon text-center">
-                        <ul className="about-social">
-                          <li className="wow fadeIn" data-wow-delay=".4s">
-                            <a
-                              href="https://www.linkedin.com/in/noah-shaffer-5182841b4/"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-linkedin"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".2s">
-                            <a
-                              href="https://github.com/noahwilliamshaffer?tab=repositories"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-github"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
-                            <a
-                              href="https://www.instagram.com/noahwilliamshaffer/"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-instagram"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://twitter.com/noahwilliamshaffer"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-twitter"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay="1s">
-                            <a
-                              href="https://dev.to/noahwilliamshaffer"
-                              target="newtab"
-                            >
-                              <i className="fa fa-book" aria-hidden="true"></i>
-                            </a>
-                          </li>
-                        </ul>
-                      </div>
                     </div>
                   </div>
                 </div>
@@ -346,11 +290,7 @@ const Home = () => {
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Boca Grande, Florida. I enjoy
-                        building everything from small business sites to rich
-                        interactive web apps. if you are a business seeking a
-                        web presence or an employer looking to hire, you can get
-                        in touch with me{" "}
+                        I am a web developer from Sarostota, Florida. I am flexible and willing to relocate anywhere. {" "}
                         <a className="underline2" href="#contact">
                           {" "}
                           here.
