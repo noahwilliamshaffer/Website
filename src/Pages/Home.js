@@ -32,7 +32,164 @@ const Home = () => {
           <div className="parallax" data-velocity="-.5" data-fit="525"></div>
         </div>
 
- 
+ {/* <!-- ================================ BLOG ========================== --> */}
+
+ <div id="blog">
+          <div className="blog-content">
+            <div className="blog-grid">
+              <div className="container">
+                <div className="row">
+                  <div className="col-md-12">
+                    <div className="main-title text-center wow fadeIn">
+                      <h3>My Portfolio</h3>
+                      <div className="underline1"></div>
+                      <div className="underline2"></div>
+                      <p>
+                       Notable Projects
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="blog-details wow fadeIn text-left">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                          <img
+                            src="assets/img/blog/blog1.png"
+                            alt="React hooks were introduced in version 16.8"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          
+                         
+      
+                            <h3>
+                              <strong>
+                              FEB 2021-APRIL 2021, TALLAHASSEE F.L.
+                              ARTICLE CURATOR FLORIDA STATE UNIVERSITY
+                              </strong>
+                            </h3>
+                          
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                          ● Developed an advanced web scraper using Python, BeautifulSoup, and Selenium.
+● Implemented multi-threading for efficient simultaneous data extraction from various online
+ retailers.
+ ● Structured and analyzed extracted data with Pandas to assess price trends
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/MeasuringGreatness"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                        
+                      </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                        
+                          <img
+                            src="assets/img/blog/blog2.png"
+                            alt="Python Flask Nginix java script and mysql Web Server"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          
+                            <h3>
+                              <strong>
+                              March 2022- May 2023, TALLAHASSEE F.L.
+                              PRICE COMPARISON, FLORIDA STATE UNIVERSITY
+                              </strong>
+                            </h3>
+                          
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                          ● Developed an advanced web scraper using Python, BeautifulSoup, and Selenium.
+● Implemented multi-threading for efficient simultaneous data extraction from various online
+ retailers.
+ ● Structured and analyzed extracted data with Pandas to assess price trends
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/ShellScripts"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="col-md-4 col-sm-6">
+                      <div className="blog-main">
+                        
+                          <img
+                            src="assets/img/blog/blog3.png"
+                            alt="blog-img"
+                            className="blog-img"
+                          />
+                        
+                        <div className="blog-head">
+                          <a
+                              href="https://github.com/noahwilliamshaffer/ShellScripts"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ textDecoration: "none" }}
+                          >
+                            <h3>
+                              <strong>Fitness App </strong>
+                            </h3>
+                          </a>
+                        </div>
+                        <div className="blog-bottom">
+                          <p>
+                            Fitness app implemented in swift, tracks users health details, and provides them with tailored excersizes and nutrition plans.
+                          </p>
+                          <a
+                            href="https://github.com/noahwilliamshaffer/Fitness-App-in-swift/tree/main/Project-Group-2-main"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="about-link-2"
+                          >
+                            View Project
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="row" style={{ textAlign: "center" }}>
+                      <a
+                        href="https://github.com/noahwilliamshaffer?tab=repositories"
+                        target="newtab"
+                        className="btn btn-warning"
+                        style={{
+                          width: "50%",
+                          fontSize: "16px",
+                          backgroundColor: "#efd236",
+                          borderColor: "#efd236",
+                          color: "black",
+                        }}
+                      >
+                        Github Main
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
         {/* <!-- ================================ ABOUT =============================== --> */}
 
         <div id="about">
